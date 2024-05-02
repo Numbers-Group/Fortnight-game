@@ -1,0 +1,21 @@
+[package]
+name = "geita"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+gl = "0.14.0"
+#glow = "0.13.1"
+imgui = "0.11.0"
+imgui-opengl-renderer = "0.12.1"
+imgui-sdl2 = "0.15.3"
+#imgui-glow-renderer = "0.11.0"
+#imgui-rs = "1.47.0"
+#memoffset = "0.9.1"
+#imgui-sdl2-support = "0.11.0"
+sdl2 = "0.36.0"
+serde = { version = "1.0.199", features = ["derive"] }
+serde_derive = "1.0.199"
+serde_json = "1.0.116"
