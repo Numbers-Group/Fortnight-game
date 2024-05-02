@@ -1,0 +1,6 @@
+[submodule "Fortnight-resources"]
+	path = Fortnight-resources
+	url = https://github.com/Numbers-Group/Fortnight-resources.git
+[submodule "GEita"]
+	path = GEita
+	url = https://github.com/Numbers-Group/GEita.git
