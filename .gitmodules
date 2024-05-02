@@ -1,6 +1,6 @@
-[submodule "Fortnight-resources"]
-	path = Fortnight-resources
-	url = https://github.com/Numbers-Group/Fortnight-resources.git
-[submodule "GEita"]
-	path = GEita
+[submodule "Contrib/GEita"]
+	path = Contrib/GEita
 	url = https://github.com/Numbers-Group/GEita.git
+[submodule "Contrib/Fortnight-resources"]
+	path = Contrib/Fortnight-resources
+	url = https://github.com/Numbers-Group/Fortnight-resources.git
